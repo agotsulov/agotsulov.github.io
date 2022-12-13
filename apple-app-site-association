@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "99496FTLM8.tech.solutionarchitects.SAAdvertisingSDKExample",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
